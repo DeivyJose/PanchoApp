@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanchoApp.Application", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanchoApp.Desktop", "PanchoApp.Desktop\PanchoApp.Desktop.csproj", "{7C7B5EB5-9877-4BD4-909B-BD5A7B15A9DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanchoApp.Domain", "PanchoApp.Domain\PanchoApp.Domain.csproj", "{9026EBB0-2203-4095-A5D2-BF743CCF13EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{7C7B5EB5-9877-4BD4-909B-BD5A7B15A9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C7B5EB5-9877-4BD4-909B-BD5A7B15A9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C7B5EB5-9877-4BD4-909B-BD5A7B15A9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9026EBB0-2203-4095-A5D2-BF743CCF13EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9026EBB0-2203-4095-A5D2-BF743CCF13EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9026EBB0-2203-4095-A5D2-BF743CCF13EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9026EBB0-2203-4095-A5D2-BF743CCF13EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
